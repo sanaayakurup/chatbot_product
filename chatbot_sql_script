@@ -1,0 +1,11 @@
+#create schema for chatbot 
+CREATE SCHEMA `chatbot_rmg` ;
+
+#USER DATA TABLE 
+CREATE TABLE `chatbot_rmg`.`user_data` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `user_name` VARCHAR(80) NULL,
+  `user_number` INT NULL,
+  `user_otp` INT NULL,
+  `is_verified` BINARY NULL,
+  PRIMARY KEY (`id`));
