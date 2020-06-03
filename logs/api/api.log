@@ -175,3 +175,12 @@
 2020-06-03 12:22:13,385 - api.log - INFO - User Details inserted into database
 2020-06-03 12:22:13,385 - api.log - INFO - User Details inserted into database
 2020-06-03 12:22:13,385 - api.log - INFO - User Details inserted into database
+2020-06-03 15:33:07,510 - api.log - INFO - <Logger api.log (DEBUG)> begin logging...
+2020-06-03 15:33:07,510 - api.log - INFO - Begin logging. . .
+2020-06-03 15:33:14,151 - api.log - INFO - User Details inserted into database
+2020-06-03 15:53:36,182 - api.log - INFO - <Logger api.log (DEBUG)> begin logging...
+2020-06-03 15:53:36,182 - api.log - INFO - <Logger api.log (DEBUG)> begin logging...
+2020-06-03 15:53:36,182 - api.log - INFO - Begin logging. . .
+2020-06-03 15:53:36,182 - api.log - INFO - Begin logging. . .
+2020-06-03 15:53:39,232 - api.log - INFO - User Details inserted into database
+2020-06-03 15:53:39,232 - api.log - INFO - User Details inserted into database
